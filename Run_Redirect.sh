@@ -2,7 +2,7 @@
 # Cloud Configuration
 # 酷安@阿巴酱(Petit Abba)
 # 所有路径都已验证(√)
-Version="202112101052"
+Version="202112151443"
 
 #绝对路径
 if [[ -d /data/adb/modules/Third_Party_Redirect ]]; then
@@ -255,6 +255,7 @@ Download '360极速浏览器' '360LiteBrowser/download'
 Download '种子播放器' 'TorrentPlayer'
 Download '视频下载器' 'Android/data/com.video.download/files'
 Download '就爱看磁力' '就爱看磁力'
+Download '阅读2.0缓存' 'Android/data/com.gedoor.monkeybook/files/book_cache'
 Download 'Chrome' '/Android/data/com.android.chrome/files/Download'
 Download 'NeKogram' 'Android/data/nekox.messenger/files/documents'
 Download 'Nekogram.' 'Android/data/tw.nekomimi.nekogram/files/Telegram/Telegram Documents'
