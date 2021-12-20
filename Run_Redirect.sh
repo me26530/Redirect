@@ -262,7 +262,6 @@ Download 'Nekogram.' 'Android/data/tw.nekomimi.nekogram/files/Telegram/Telegram 
 Download 'Nekogram-X' 'NekoX'
 Download 'TG.' 'Telegram/Telegram Documents'
 Download 'Telegram' 'Android/data/org.telegram.messenger/files/Telegram'
-Download 'TG缓存' 'Android/data/org.telegram.messenger/cache'
 Download 'TG-X' 'Android/data/org.thunderdog.challegram/files/documents'
 Download 'TG--X' 'Android/data/taipei.sean.challegram'
 Download 'X浏览器' 'Android/data/com.mmbox.xbrowser/files/downloads'
