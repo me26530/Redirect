@@ -2,7 +2,7 @@
 # Cloud Configuration
 # 酷安@阿巴酱(Petit Abba)
 # 所有路径都已验证(√)
-Version="202207031613"
+Version="202210291841"
 
 #绝对路径
 if [[ -d /data/adb/modules/Third_Party_Redirect ]]; then
@@ -214,7 +214,7 @@ Music() {
 
 
 # 正常默认下载目录
-Download 'QQ' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
+Download 'QQ' 'Android/data/com.tencent.mobileqq/tencent/QQfile_recv'
 Download 'QQ·' 'Android/files/com.tencent.mobileqq/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
 Download 'QQ.' 'Tencent/QQfile_recv'
 Download 'QQ极速版' 'tencent/QQfile_recv'
