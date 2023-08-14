@@ -1,5 +1,3 @@
-vmess://eyJhZGQiOiIxMzAuMTYyLjEzOC4xOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDRlMzhlZWItNGYwOC00ZDVlLTlhNDAtMGYxYjEzMGQ3YjUxIiwibmV0Ijoia2NwIiwicGF0aCI6IjlKcWNBSFVwZWkiLCJwb3J0IjoiNDA0MDMiLCJwcyI6InYyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJzcnRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIyNjAzOmMwMjI6ODAwNjplZWVlOmEyYzI6NGZiODo3YjhkOjEwMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDRlMzhlZWItNGYwOC00ZDVlLTlhNDAtMGYxYjEzMGQ3YjUxIiwibmV0Ijoia2NwIiwicGF0aCI6IjlKcWNBSFVwZWkiLCJwb3J0IjoiNDA0MDMiLCJwcyI6ImlwdjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InNydHAiLCJ2IjoiMiJ9
 vless://44e38eeb-4f08-4d5e-9a40-0f1b130d7b51@www.ai50.cf:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=www.ai50.cf&fp=randomized&type=ws&sni=www.ai50.cf#www.ai50.cf
 vless://44e38eeb-4f08-4d5e-9a40-0f1b130d7b51@icook.hk:443?path=%2Fargo-vless%3Fed%3D2048&security=tls&encryption=none&host=a.cfvpn.gq&type=ws&sni=a.cfvpn.gq#Argo-Vless
 trojan://44e38eeb-4f08-4d5e-9a40-0f1b130d7b51@icook.hk:443?path=%2Fargo-trojan%3Fed%3D2048&security=tls&host=a.cfvpn.gq&type=ws&sni=a.cfvpn.gq#Argo-Trojan
